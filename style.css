@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    background:linear-gradient(90deg,rgb(49, 115, 186), rgb(158, 122, 230));
+}
+
+
